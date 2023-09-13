@@ -1,6 +1,6 @@
 #ifndef main_h
 	#define main_h
-	
+/*this is the header of the directory, it contains the prototypes of the functions used*/	
 	
 	int _putchar(char);
 	void print_alphabet(void);
